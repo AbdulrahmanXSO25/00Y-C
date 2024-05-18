@@ -1,0 +1,5 @@
+# Ignore all files in the build dir
+build/
+
+# Ignore all files in the .vscode dir
+.vscode/
